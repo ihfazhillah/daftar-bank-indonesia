@@ -1,10 +1,5 @@
 {
-    "banks-1": [
-        {
-            "name": null,
-            "code": null,
-            "image": null
-        },
+    "banks": [
         {
             "name": "Amar Bank",
             "code": "531",
@@ -199,13 +194,6 @@
             "name": "Bank Maluku Malut",
             "code": "131",
             "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/06/28/jaringan-prima-logo-bank-maluku-malut.jpg"
-        }
-    ],
-    "banks-2": [
-        {
-            "name": null,
-            "code": null,
-            "image": null
         },
         {
             "name": "Bank Mandiri",
