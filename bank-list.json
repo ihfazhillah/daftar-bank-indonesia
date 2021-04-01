@@ -1,0 +1,204 @@
+{
+    "banks": [
+        {
+            "name": null,
+            "code": null,
+            "image": null
+        },
+        {
+            "name": "Amar Bank",
+            "code": "531",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2021/03/10/jaringan-prima-amar-bank-18.jpg"
+        },
+        {
+            "name": "Bank Aceh Syariah",
+            "code": "116",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-aceh-syariah.png"
+        },
+        {
+            "name": "Bank Artha Graha Internasional",
+            "code": "037",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2020/06/22/jaringan-prima-logo-bank-artha-graha-internasional-17.jpg"
+        },
+        {
+            "name": "Bank Banten",
+            "code": "137",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-banten.png"
+        },
+        {
+            "name": "Bank BCA",
+            "code": "014",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/11/08/bank-bca_2.png"
+        },
+        {
+            "name": "Bank BCA Syariah",
+            "code": "536",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-bca-syariah.png"
+        },
+        {
+            "name": "Bank BJB",
+            "code": "110",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-bjb.png"
+        },
+        {
+            "name": "Bank BJB Syariah",
+            "code": "425",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/05/03/logo-bank-bjb-syariah.png"
+        },
+        {
+            "name": "Bank BNI",
+            "code": "009",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/04/17/logo-bni.png"
+        },
+        {
+            "name": "Bank BPD Bali",
+            "code": "129",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/06/28/jaringan-prima-logo-bank-bpd-bali.jpg"
+        },
+        {
+            "name": "Bank BPD DIY",
+            "code": "112",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-bpd-diy.png"
+        },
+        {
+            "name": "Bank BRI",
+            "code": "002",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/04/17/logo-bri1.png"
+        },
+        {
+            "name": "Bank BTN",
+            "code": "200",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-btn.png"
+        },
+        {
+            "name": "Bank BTPN",
+            "code": "213",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-btpn.png"
+        },
+        {
+            "name": "Bank BTPN Syariah",
+            "code": "547",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-btpn-syariah.png"
+        },
+        {
+            "name": "Bank Bumi Arta",
+            "code": "076",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-bumi-arta-2.png"
+        },
+        {
+            "name": "Bank Capital Indonesia",
+            "code": "054",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/06/06/jaringan-prima-logo-bank-capital.jpg"
+        },
+        {
+            "name": "Bank CCB Indonesia",
+            "code": "036",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-china-construction-bank.png"
+        },
+        {
+            "name": "Bank CIMB Niaga",
+            "code": "022",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/04/17/logo-cimb.png"
+        },
+        {
+            "name": "Bank Commonwealth",
+            "code": "950",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-commonwealth.png"
+        },
+        {
+            "name": "Bank CTBC Indonesia",
+            "code": "949",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-ctbc.png"
+        },
+        {
+            "name": "Bank Danamon",
+            "code": "011",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-danamon.png"
+        },
+        {
+            "name": "Bank DBS Indonesia",
+            "code": "046",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/03/28/bank-dbs.png"
+        },
+        {
+            "name": "Bank Digital BCA ",
+            "code": "501",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2020/09/02/bcadigital_logo.png"
+        },
+        {
+            "name": "Bank DKI",
+            "code": "111",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-dki.png"
+        },
+        {
+            "name": "Bank Harda Internasional",
+            "code": "567",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/06/06/jaringan-prima-logo-bank-harda-internasional.jpg"
+        },
+        {
+            "name": "Bank HSBC Indonesia",
+            "code": "087",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-hsbc.png"
+        },
+        {
+            "name": "Bank Ina Perdana",
+            "code": "513",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/07/02/jaringan-prima-logo-bank-ina-perdana.jpg"
+        },
+        {
+            "name": "Bank Index Selindo",
+            "code": "555",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/06/06/jaringan-prima-logo-bank-index-selindo.jpg"
+        },
+        {
+            "name": "Bank Jasa Jakarta",
+            "code": "472",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-jasa-jakarta.png"
+        },
+        {
+            "name": "Bank Jateng",
+            "code": "113",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-jateng.png"
+        },
+        {
+            "name": "Bank Jatim",
+            "code": "114",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-jatim.png"
+        },
+        {
+            "name": "Bank Jtrust Indonesia",
+            "code": "095",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-j-trust-bank.png"
+        },
+        {
+            "name": "Bank Kalbar",
+            "code": "123",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-kalbar.png"
+        },
+        {
+            "name": "Bank Kalteng",
+            "code": "125",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/05/30/jaringan-prima-logo-bank-kalteng.png"
+        },
+        {
+            "name": "Bank Kaltimtara",
+            "code": "124",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/05/03/logo-bank-kaltimtara.png"
+        },
+        {
+            "name": "Bank KB Bukopin",
+            "code": "441",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2021/02/19/logo-kbbukopin.png"
+        },
+        {
+            "name": "Bank KEB Hana Indonesia",
+            "code": "484",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2019/10/21/jaringan-prima-logo-bank-hana.jpg"
+        },
+        {
+            "name": "Bank Maluku Malut",
+            "code": "131",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/06/28/jaringan-prima-logo-bank-maluku-malut.jpg"
+        }
+    ]
+}
