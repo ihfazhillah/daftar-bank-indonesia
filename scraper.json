@@ -1,6 +1,27 @@
 {
-  "banks": {
+  "banks-1": {
     "expression": "#myTable tr",
+    "type": "css",
+    "children": {
+      "name": {
+        "expression": "td.bank_textcol.text-left::text",
+        "type": "css",
+        "getter": "get"
+      },
+      "code": {
+        "expression": "td.bank_codecol::text",
+        "type": "css",
+        "getter": "get"
+      },
+      "image": {
+        "expression": "td.bank_namecol img::attr(src)",
+        "type": "css",
+        "getter": "get"
+      }
+    }
+  },
+  "banks-2": {
+    "expression": "#myTable2 tr",
     "type": "css",
     "children": {
       "name": {

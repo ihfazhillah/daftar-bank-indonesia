@@ -1,5 +1,5 @@
 {
-    "banks": [
+    "banks-1": [
         {
             "name": null,
             "code": null,
@@ -199,6 +199,208 @@
             "name": "Bank Maluku Malut",
             "code": "131",
             "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/06/28/jaringan-prima-logo-bank-maluku-malut.jpg"
+        }
+    ],
+    "banks-2": [
+        {
+            "name": null,
+            "code": null,
+            "image": null
+        },
+        {
+            "name": "Bank Mandiri",
+            "code": "008",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/04/17/logo-mandiri.png"
+        },
+        {
+            "name": "Bank Maspion",
+            "code": "157",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-maspion.png"
+        },
+        {
+            "name": "Bank Mayapada",
+            "code": "097",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-mayapada.png"
+        },
+        {
+            "name": "Bank Maybank Indonesia",
+            "code": "016",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-maybank.png"
+        },
+        {
+            "name": "Bank Mega",
+            "code": "426 ",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-mega.png"
+        },
+        {
+            "name": "Bank Mega Syariah",
+            "code": "506",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-mega-syariah.png"
+        },
+        {
+            "name": "Bank Mestika",
+            "code": "151",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/05/30/jaringan-prima-logo-bank-mestika.png"
+        },
+        {
+            "name": "Bank MNC",
+            "code": "485",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-mnc-bank.png"
+        },
+        {
+            "name": "Bank Muamalat",
+            "code": "147",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-muamalat.png"
+        },
+        {
+            "name": "Bank Multiarta Sentosa",
+            "code": "548",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-mas.png"
+        },
+        {
+            "name": "Bank Nagari",
+            "code": "118",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/11/08/logo-bank-nagari-sumbar.png"
+        },
+        {
+            "name": "Bank National Nobu",
+            "code": "503",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-nobu-national-bank.png"
+        },
+        {
+            "name": "Bank OCBC NISP",
+            "code": "028",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-ocbc-nisp.png"
+        },
+        {
+            "name": "Bank of China Jakarta Branch",
+            "code": "069",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2019/01/23/jaringan-prima-bank-of-china.jpg"
+        },
+        {
+            "name": "Bank Panin",
+            "code": "019",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-paninbank.png"
+        },
+        {
+            "name": "Bank Papua",
+            "code": "132",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-papua.png"
+        },
+        {
+            "name": "Bank Permata",
+            "code": "013",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/04/17/logo-permata.png"
+        },
+        {
+            "name": "Bank QNB Indonesia",
+            "code": "167",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/03/23/bank-qnb.png"
+        },
+        {
+            "name": "Bank Riau Kepri",
+            "code": "119",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-riau-kepri.png"
+        },
+        {
+            "name": "Bank Sahabat Sampoerna",
+            "code": "523",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-sampoerna.png"
+        },
+        {
+            "name": "Bank SBI Indonesia",
+            "code": "498",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/05/03/logo-bank-sbi_web.png"
+        },
+        {
+            "name": "Bank Shinhan",
+            "code": "152",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-shinhan.png"
+        },
+        {
+            "name": "Bank Sinarmas",
+            "code": "153",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-sinar-mas.png"
+        },
+        {
+            "name": "Bank Sulselbar",
+            "code": "126",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-sulsel-bar.png"
+        },
+        {
+            "name": "Bank Sumselbabel",
+            "code": "120",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-sumsel-babel.png"
+        },
+        {
+            "name": "Bank Sumut",
+            "code": "117",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/05/30/jaringan-prima-logo-bank-sumut.png"
+        },
+        {
+            "name": "Bank Syariah Bukopin",
+            "code": "521",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/bank-syariah-bukopin.png"
+        },
+        {
+            "name": "Bank Syariah Indonesia (ex-BRIS)",
+            "code": "422",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2021/02/15/logo-bank-syariah-indonesia.jpg"
+        },
+        {
+            "name": "Bank Syariah Indonesia (ex-BSM)",
+            "code": "451",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2021/02/15/logo-bank-syariah-indonesia.jpg"
+        },
+        {
+            "name": "Bank UOB Indonesia",
+            "code": "023",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-uob-indonesia.png"
+        },
+        {
+            "name": "Bank Victoria",
+            "code": "566",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-victoria.png"
+        },
+        {
+            "name": "Bank Victoria Syariah",
+            "code": "405",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2017/08/25/logo-bank-vcitoria.png"
+        },
+        {
+            "name": "Bank Woori Saudara",
+            "code": "212",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2019/04/04/jaringan-prima-logo-bank-woori-bersaudara-16.jpg"
+        },
+        {
+            "name": "Citibank Indonesia",
+            "code": "031",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/06/25/jaringan-prima-logo-bank-citibank.jpg"
+        },
+        {
+            "name": "IBK Bank Indonesia",
+            "code": "945",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2019/09/26/logo-ibk-bank-indonesia.jpg"
+        },
+        {
+            "name": "MUFG Bank",
+            "code": "042",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/05/03/logo-bank-mufg.png"
+        },
+        {
+            "name": "Panin Dubai Syariah Bank",
+            "code": "517",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/07/02/jaringan-prima-logo-panin-dubai-syariah.jpg"
+        },
+        {
+            "name": "Prima Master Bank",
+            "code": "520",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/06/28/jaringan-prima-logo-prima-master-bank.jpg"
+        },
+        {
+            "name": "Standard Chartered Bank",
+            "code": "050",
+            "image": "https://www.jaringanprima.co.id/media/image/originals/post/2018/07/02/jaringan-prima-standard-chartered.jpg"
         }
     ]
 }
